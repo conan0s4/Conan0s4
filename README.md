@@ -4,8 +4,8 @@ I create and share scripts, tools, and projects related to cybersecurity. Driven
 
 ---
 ## Skills 
+Level: Beginner
 <p>
-  Level: Beginner
   <img alt="Web Application Security" src="https://img.shields.io/badge/-Web%20Application%20Security-blue?style=for-the-badge" /> 
   <img alt="Digital Forensics" src="https://img.shields.io/badge/-Digital%20Forensics-purple?style=for-the-badge" /> 
   <img alt="Network Traffic Analysis" src="https://img.shields.io/badge/-Network%20Traffic%20Analysis-teal?style=for-the-badge" /> 
