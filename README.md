@@ -23,15 +23,12 @@ Level: Beginner
   <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-cyan?style=for-the-badge" />
   <img alt="FTK Imager" src="https://img.shields.io/badge/-FTK%20Imager-gray?style=for-the-badge" />
   <img alt="SET" src="https://img.shields.io/badge/-setoolkit-lightgrey?style=for-the-badge" />
-  <img alt="Binwalk" src="https://img.shields.io/badge/-Binwalk-orange?style=for-the-badge" />
-  <img alt="Foremost" src="https://img.shields.io/badge/-Foremost-darkgrey?style=for-the-badge" />
   <img alt="Litterbox" src="https://img.shields.io/badge/-Litterbox-navy?style=for-the-badge" />
   <img alt="Hydra" src="https://img.shields.io/badge/-Hydra-red?style=for-the-badge" />
   <img alt="John the Ripper" src="https://img.shields.io/badge/-John%20the%20Ripper-orange?style=for-the-badge" />
   <img alt="Hashcat" src="https://img.shields.io/badge/-Hashcat-purple?style=for-the-badge" />
   <img alt="Ettercap" src="https://img.shields.io/badge/-Ettercap-teal?style=for-the-badge" />
   <img alt="Aircrack-ng" src="https://img.shields.io/badge/-Aircrack--ng-blue?style=for-the-badge" />
-  <img alt="EAPHammer" src="https://img.shields.io/badge/-EAPHammer-green?style=for-the-badge" />
 
 </p>
 
