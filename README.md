@@ -10,8 +10,6 @@ Level: Beginner
   <img alt="Digital Forensics" src="https://img.shields.io/badge/-Digital%20Forensics-purple?style=for-the-badge" /> 
   <img alt="Network Traffic Analysis" src="https://img.shields.io/badge/-Network%20Traffic%20Analysis-teal?style=for-the-badge" /> 
   <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-green?style=for-the-badge" /> 
-  <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse%20Engineering-orange?style=for-the-badge" /> 
-  <img alt="OS Exploitation" src="https://img.shields.io/badge/-OS%20Exploitation-red?style=for-the-badge" /> 
   <img alt="Programming" src="https://img.shields.io/badge/-Programming-lightblue?style=for-the-badge" />
 
 </p>
