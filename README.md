@@ -1,4 +1,4 @@
-# Hi, I'm Alexander M. Sapo 👋
+
 **Ethical hacker · Cybersecurity enthusiast**  
 I create and share scripts, tools, and projects related to cybersecurity. Driven by curiosity and hands-on experience, I aim to deepen my knowledge and contribute to the security community.
 
