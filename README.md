@@ -1,6 +1,4 @@
 
-**Ethical hacker · Cybersecurity enthusiast**  
-I create and share scripts, tools, and projects related to cybersecurity. Driven by curiosity and hands-on experience, I aim to deepen my knowledge and contribute to the security community.
 <div id="hacker-animation">
   <canvas id="matrix"></canvas>
   <div id="overlay-text">Welcome to my GitHub</div>
@@ -71,6 +69,9 @@ I create and share scripts, tools, and projects related to cybersecurity. Driven
     canvas.width = window.innerWidth;
   });
 </script>
+**Ethical hacker · Cybersecurity enthusiast**  
+I create and share scripts, tools, and projects related to cybersecurity. Driven by curiosity and hands-on experience, I aim to deepen my knowledge and contribute to the security community.
+
 ---
 ## Skills 
 Level: Beginner
