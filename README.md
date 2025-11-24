@@ -31,7 +31,5 @@
 
 ## Languages
 <p>
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-lightgrey?style=for-the-badge" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-navy?style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" />
 </p>
