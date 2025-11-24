@@ -1,9 +1,6 @@
 **Ethical hacker · Cybersecurity enthusiast**  
-I create and share scripts, tools, and projects related to cybersecurity. Driven by curiosity and hands-on experience, I aim to deepen my knowledge and contribute to the security community.
-
 ---
 ## Skills 
-Level: Beginner
 <p>
   <img alt="Web Application Security" src="https://img.shields.io/badge/-Web%20Application%20Security-blue?style=for-the-badge" /> 
   <img alt="Digital Forensics" src="https://img.shields.io/badge/-Digital%20Forensics-purple?style=for-the-badge" /> 
