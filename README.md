@@ -14,13 +14,10 @@
 ## Tools
 <p>
   <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-black?style=for-the-badge" />
-  <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-purple?style=for-the-badge" />
   <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-blue?style=for-the-badge" />
   <img alt="Autopsy" src="https://img.shields.io/badge/-Autopsy-darkgreen?style=for-the-badge" />
   <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-cyan?style=for-the-badge" />
   <img alt="FTK Imager" src="https://img.shields.io/badge/-FTK%20Imager-gray?style=for-the-badge" />
-  <img alt="SET" src="https://img.shields.io/badge/-setoolkit-lightgrey?style=for-the-badge" />
-  <img alt="Litterbox" src="https://img.shields.io/badge/-Litterbox-navy?style=for-the-badge" />
   <img alt="Hydra" src="https://img.shields.io/badge/-Hydra-red?style=for-the-badge" />
   <img alt="John the Ripper" src="https://img.shields.io/badge/-John%20the%20Ripper-orange?style=for-the-badge" />
   <img alt="Hashcat" src="https://img.shields.io/badge/-Hashcat-purple?style=for-the-badge" />
