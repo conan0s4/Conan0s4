@@ -1,4 +1,4 @@
-Ethical hacker · LEVEL : Beginner
+Ethical hacker · LEVEL - Beginner
 ---
 ## Skills 
 <p>
