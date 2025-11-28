@@ -1,5 +1,6 @@
-Ethical hacker · LEVEL - Beginner
+Ethical hacker · 
 ---
+Level - Beginner
 ## Skills 
 <p>
   <img alt="Web Application Security" src="https://img.shields.io/badge/-Web%20Application%20Security-blue?style=for-the-badge" /> 
