@@ -36,7 +36,7 @@ Level - Beginner
 <p>
   
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/alexandermsapo)  
-[![Root-Me](https://img.shields.io/badge/Root--Me-Profile-orange?logo=hackthebox&style=for-the-badge)](https://www.root-me.org/conan0s4)  
+[![Root-Me](https://img.shields.io/badge/Root--Me-Profile-orange?logo=RootMe&style=for-the-badge)](https://www.root-me.org/conan0s4)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/conan0s4)  
 [![picoCTF](https://img.shields.io/badge/picoCTF-Profile-blueviolet?logo=picoctf&style=for-the-badge)](https://play.picoctf.org/users/conan0s4)  
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green?logo=hackthebox&style=for-the-badge)](https://app.hackthebox.com/profile/2201706)  
