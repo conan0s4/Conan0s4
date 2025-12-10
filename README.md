@@ -31,6 +31,7 @@ Level - Beginner
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" />
 </p>
+---
 <p>
   
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/alexandermsapo)  
