@@ -28,6 +28,4 @@ Level - Beginner
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=for-the-badge)](https://medium.com/@conan0s4)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexander-sapo-245372337)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?logo=LeetCode&style=for-the-badge)](https://leetcode.com/u/conan0s4)
-
 </p>
