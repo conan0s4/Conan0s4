@@ -20,7 +20,6 @@ Level - Beginner
 ## Online Profiles
 <p>
   
-## Online Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/alexandermsapo)  
 [![Root-Me](https://img.shields.io/badge/Root--Me-Profile-orange?logo=RootMe&style=for-the-badge)](https://www.root-me.org/conan0s4)  
