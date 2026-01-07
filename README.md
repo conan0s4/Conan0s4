@@ -37,5 +37,4 @@ Ethical hacker ·
 
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3559874" style='border:none;'></iframe>
 
