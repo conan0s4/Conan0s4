@@ -2,6 +2,7 @@ Ethical hacker ·
 ---
 ## Skills 
 <p>
+  
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-darkred?style=for-the-badge)
 ![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-blue?style=for-the-badge)
 ![OSINT](https://img.shields.io/badge/-OSINT-blue?style=for-the-badge)
