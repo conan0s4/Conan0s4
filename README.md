@@ -2,13 +2,12 @@ Ethical hacker ·
 ---
 ## Skills 
 <p>
-  <img alt="Web Application Security" src="https://img.shields.io/badge/-Web%20Application%20Security-red?style=for-the-badge" /> 
-  <img alt="Digital Forensics" src="https://img.shields.io/badge/-Digital%20Forensics-blue?style=for-the-badge" /> 
-  <img alt="Network Traffic Analysis" src="https://img.shields.io/badge/-Network%20Traffic%20Analysis-blue?style=for-the-badge" /> 
-  <img alt="OSINT" src="https://img.shields.io/badge/-OSINT-blue?style=for-the-badge" />
-  <img alt="Reconnaissance" src="https://img.shields.io/badge/-Reconnaissance-red?style=for-the-badge" />  
-  <img alt="Programming" src="https://img.shields.io/badge/-Programming-lightblue?style=for-the-badge" />
-
+ <img alt="Reverse Engineering" src="https://img.shields.io/badge/-Reverse%20Engineering-darkred?style=for-the-badge" />
+<img alt="Digital Forensics" src="https://img.shields.io/badge/-Digital%20Forensics-blue?style=for-the-badge" />
+<img alt="OSINT" src="https://img.shields.io/badge/-OSINT-blue?style=for-the-badge" />
+<img alt="Web Application Security" src="https://img.shields.io/badge/-Web%20Application%20Security-red?style=for-the-badge" />
+<img alt="Reconnaissance" src="https://img.shields.io/badge/-Reconnaissance-red?style=for-the-badge" />
+<img alt="Network Traffic Analysis" src="https://img.shields.io/badge/-Network%20Traffic%20Analysis-blue?style=for-the-badge" />
 </p>
 
 ## Languages
