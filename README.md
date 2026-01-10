@@ -30,6 +30,8 @@ Ethical hacker ·
 [![CTFtime Team 2](https://img.shields.io/badge/-blue?label=CTFtime__Team__2&logo=ctftime&style=for-the-badge)](https://ctftime.org/team/411847)
 [![Medium](https://img.shields.io/badge/-black?label=Medium&logo=medium&style=for-the-badge)](https://medium.com/@conan0s4)
 [![LinkedIn](https://img.shields.io/badge/-blue?label=LinkedIn&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexander-sapo-245372337)
+[![RingZer0](https://img.shields.io/badge/RingZer0-Profile-blue)](https://ringzer0ctf.com/profile/52616/conan0s4)
+
 
 
 
