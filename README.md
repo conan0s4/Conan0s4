@@ -5,7 +5,7 @@ Ethical hacker ·
   
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-darkred?style=for-the-badge)
 ![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-blue?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/-OSINT-blue?style=for-the-badge)
+![Social Engineering](https://img.shields.io/badge/-SocialEngineering-blue?style=for-the-badge)
 ![Web Application Security](https://img.shields.io/badge/-Web%20Application%20Security-red?style=for-the-badge)
 ![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-red?style=for-the-badge)
 ![Network Traffic Analysis](https://img.shields.io/badge/-Network%20Traffic%20Analysis-blue?style=for-the-badge)
