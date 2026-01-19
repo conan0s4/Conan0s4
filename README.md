@@ -20,7 +20,7 @@ Ethical hacker ·
 
 [![Root-Me](https://img.shields.io/badge/-red?label=Root-Me&logo=rootme&style=for-the-badge)](https://www.root-me.org/conan0s4)
 [![TryHackMe](https://img.shields.io/badge/-red?label=TryHackMe&logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/conan0s4)
-[![picoCTF](https://img.shields.io/badge/-red?label=picoCTF&logo=picoctf&style=for-the-badge)](https://play.picoctf.org/users/conan0s4)
+[![picoCTF](https://img.shields.io/badge/-red?label=picoCTF&logo=Picoctf&style=for-the-badge)](https://play.picoctf.org/users/conan0s4)
 [![HackTheBox](https://img.shields.io/badge/-red?label=HackTheBox&logo=hackthebox&style=for-the-badge)](https://app.hackthebox.com/profile/2201706)
 [![ringzer0ctf](https://img.shields.io/badge/-red?label=ringzer0ctf&logo=ringzer0ctf&style=for-the-badge)](https://ringzer0ctf.com/profile/52616/conan0s4)
 [![cyberdefenders](https://img.shields.io/badge/-red?label=cyberdefenders&logo=cyberdefenders&style=for-the-badge)](https://cyberdefenders.org/p/alexandermsapo/)
