@@ -3,12 +3,12 @@ Ethical hacker ·
 ## Skills 
 <p>
   
-![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-blue?style=for-the-badge)
-![Web Exploitation](https://img.shields.io/badge/-Web%20Application%20Security-red?style=for-the-badge)
-![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-red?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-red?style=for-the-badge)
-![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-red?style=for-the-badge)
-![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-red?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-red?style=for-the-badge)
+![Web Exploitation](https://img.shields.io/badge/-Web%20Application%20Security-darkred?style=for-the-badge)
+![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-darkred?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-darkred?style=for-the-badge)
+![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-darkred?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-darkred?style=for-the-badge)
 ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-darkred?style=for-the-badge)
 
 
