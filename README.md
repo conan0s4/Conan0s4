@@ -1,4 +1,4 @@
-Ethical hacker · 
+cyber security · 
 ---
 ## Skills 
 <p>
