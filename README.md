@@ -4,7 +4,7 @@ Ethical hacker ·
 <p>
   
 ![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-darkred?style=for-the-badge)
-![Web Exploitation](https://img.shields.io/badge/-Web%20Application%20Security-darkred?style=for-the-badge)
+![Web Exploitation](https://img.shields.io/badge/-Web%20Exploitation-darkred?style=for-the-badge)
 ![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-darkred?style=for-the-badge)
 ![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-darkred?style=for-the-badge)
 ![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-darkred?style=for-the-badge)
