@@ -10,7 +10,7 @@ Ethical hacker ·
 ![Log Analysis](https://img.shields.io/badge/-Log-Analysis-red?style=for-the-badge)
 ![Network Analysis](https://img.shields.io/badge/-Network-Analysis-red?style=for-the-badge)
 ![Malware Analysis](https://img.shields.io/badge/-Malware-Analysis-red?style=for-the-badge)
-![Threat Hunting](https://img.shields.io/badge/-Threat-Hunting-red?style=for-the-badge)
+![Threat Hunting](Threat-Hunting-red?style=for-the-badge)
 
 
 
