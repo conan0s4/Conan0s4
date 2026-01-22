@@ -29,7 +29,6 @@ cyber security ·
 [![ringzer0ctf](https://img.shields.io/badge/-red?label=ringzer0ctf&logo=ringzer0ctf&style=for-the-badge)](https://ringzer0ctf.com/profile/52616/conan0s4)
 [![cyberdefenders](https://img.shields.io/badge/-red?label=cyberdefenders&logo=cyberdefenders&style=for-the-badge)](https://cyberdefenders.org/p/alexandermsapo/)
 [![letsdefend](https://img.shields.io/badge/-red?label=LetsDefend&logo=LetsDefend&style=for-the-badge)](https://app.letsdefend.io/user/conan0s4)
-
 [![YesWeHack](https://img.shields.io/badge/-blueviolet?label=YesWeHack&logo=yeswehack&style=for-the-badge)](https://dojo-yeswehack.com/user/168d53c0-7fdf-47d1-8098-5b0a111685a9)
 [![hackerone](https://img.shields.io/badge/-blueviolet?label=hackerone&logo=hackerone&style=for-the-badge)](https://hackerone.com/conan0s4)
 [![CTFtime Team 1](https://img.shields.io/badge/-blue?label=CTFtime_Team1&logo=ctftime&style=for-the-badge)](https://ctftime.org/team/419050/)
