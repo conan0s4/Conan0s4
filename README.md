@@ -17,6 +17,11 @@ cyber security ·
 ## Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" />
+  <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-yellow?style=for-the-badge" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-yellow?style=for-the-badge" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-yellow?style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge" />
+
 </p>
 
 ## Online Profiles
