@@ -3,32 +3,32 @@
 
 ---
 ## Skills 
-
 <p>
 
 <a href="#">
-  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=autopsy&logoColor=white" />
+  <img alt="Digital Forensics" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Autopsy_logo.svg" height="28"/> Digital Forensics
 </a>
 <a href="#">
-  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Pentesting-lightblue?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img alt="Web Exploitation" src="https://upload.wikimedia.org/wikipedia/commons/5/51/OWASP_logo.svg" height="28"/> Web Exploitation
 </a>
 <a href="#">
-  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img alt="Reconnaissance" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Nmap_logo.svg" height="28"/> Reconnaissance
 </a>
 <a href="#">
-  <img alt="Log Analysis" src="https://img.shields.io/badge/Log%20Analysis-lightblue?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img alt="Log Analysis" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Splunk_logo.svg" height="28"/> Log Analysis
 </a>
 <a href="#">
-  <img alt="Network Analysis" src="https://img.shields.io/badge/Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Network Analysis" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_logo.svg" height="28"/> Network Analysis
 </a>
 <a href="#">
-  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2f/Malwarebytes_logo_2019.svg&logoColor=white" />
+  <img alt="Malware Analysis" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Malwarebytes_logo.svg" height="28"/> Malware Analysis
 </a>
 <a href="#">
-  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/f/f2/Cybersecurity_icon.svg&logoColor=white" />
+  <img alt="Threat Hunting" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/ISC2_logo.svg" height="28"/> Threat Hunting
 </a>
 
 </p>
+
 
 ## Languages
 <p>
