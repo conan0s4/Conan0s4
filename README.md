@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Cybersecurity+Student;CTF+Player;Blue+Team+%2F+Web+Security;H4G+Rank+Team+#6+Ind+#15)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Cybersecurity+Student;CTF+Player;Blue+Team+%2F+Web+Security;H4G+2024+Rank+T7;H4G+2025+Rank+T6)
 
 
 ---
