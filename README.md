@@ -2,19 +2,32 @@
 
 
 ---
-## Skills 
-<p>
-  
-![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-lightblue?style=for-the-badge)
-![Web Exploitation](https://img.shields.io/badge/-Web%20Pentesting-lightblue?style=for-the-badge)
-![Reconnaissance](https://img.shields.io/badge/-Reconnaissance-lightblue?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-lightblue?style=for-the-badge)
-![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-lightblue?style=for-the-badge)
-![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-lightblue?style=for-the-badge)
-![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-lightblue?style=for-the-badge)
+## Skills <p>
 
+<a href="#">
+  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=forensics&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Pentesting-lightblue?style=for-the-badge&logo=owasp&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=nmap&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Log Analysis" src="https://img.shields.io/badge/Log%20Analysis-lightblue?style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Network Analysis" src="https://img.shields.io/badge/Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=virus&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+</a>
 
 </p>
+
 
 ## Languages
 <p>
