@@ -17,13 +17,12 @@
 </p>
 
 ## Languages
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-lightgreen?style=for-the-badge" />
-  <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-lightgreen?style=for-the-badge" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-lightgreen?style=for-the-badge" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-lightgreen?style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-lightgreen?style=for-the-badge" />
-
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-lightgreen?style=for-the-badge&logo=python&logoColor=black" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-lightgreen?style=for-the-badge&logo=powershell&logoColor=black" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-lightgreen?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&logo=html5&logoColor=black" />
 </p>
 
 ## Online Profiles
