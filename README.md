@@ -6,31 +6,31 @@
 <p>
 
 <a href="#">
-  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=autopsy&logoColor=white" />
+  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=autopsy&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Pentesting-lightblue?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Exploitation-lightblue?style=for-the-badge&logo=owasp&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=nmap&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Log Analysis" src="https://img.shields.io/badge/Log%20Analysis-lightblue?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img alt="Log Analysis" src="https://img.shields.io/badge/Log%20Analysis-lightblue?style=for-the-badge&logo=splunk&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Network Analysis" src="https://img.shields.io/badge/Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Network Analysis" src="https://img.shields.io/badge/Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=malwarebytes&logoColor=white" />
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=malwarebytes&logoColor=000000" />
 </a>
 
 <a href="#">
-  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=metasploit&logoColor=000000" />
 </a>
 
 </p>
