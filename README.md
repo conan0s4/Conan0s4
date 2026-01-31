@@ -1,4 +1,8 @@
 cyber security · 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Cybersecurity+Student;CTF+Player;Blue+Team+%2F+Web+Security)
+
+
 ---
 ## Skills 
 <p>
