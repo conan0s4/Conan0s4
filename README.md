@@ -26,63 +26,27 @@
 </p>
 
 ## Online Profiles
-## 🌐 Online Profiles
+<p>
 
-<p align="center">
-  <a href="https://www.root-me.org/conan0s4">
-    <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me-lightred?style=for-the-badge&logo=rootme&logoColor=black" />
-  </a>
-  <a href="https://tryhackme.com/p/conan0s4">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-lightred?style=for-the-badge&logo=tryhackme&logoColor=black" />
-  </a>
-  <a href="https://play.picoctf.org/users/conan0s4">
-    <img alt="picoCTF" src="https://img.shields.io/badge/picoCTF-lightred?style=for-the-badge&logo=picoctf&logoColor=black" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/2201706">
-    <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-lightred?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-  <a href="https://ringzer0ctf.com/profile/52616/conan0s4">
-    <img alt="Ringzer0CTF" src="https://img.shields.io/badge/Ringzer0CTF-lightred?style=for-the-badge&logo=ringzer0ctf&logoColor=black" />
-  </a>
+[![Root-Me](https://img.shields.io/badge/-lightred?label=Root-Me&logo=rootme&style=for-the-badge)](https://www.root-me.org/conan0s4)
+[![TryHackMe](https://img.shields.io/badge/-lightred?label=TryHackMe&logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/conan0s4)
+[![picoCTF](https://img.shields.io/badge/-lightred?label=picoCTF&logo=PicoCTF&style=for-the-badge)](https://play.picoctf.org/users/conan0s4)
+[![HackTheBox](https://img.shields.io/badge/-lightred?label=HackTheBox&logo=hackthebox&style=for-the-badge)](https://app.hackthebox.com/profile/2201706)
+[![ringzer0ctf](https://img.shields.io/badge/-lightred?label=ringzer0ctf&logo=ringzer0ctf&style=for-the-badge)](https://ringzer0ctf.com/profile/52616/conan0s4)
+[![cyberdefenders](https://img.shields.io/badge/-lightred?label=cyberdefenders&logo=cyberdefenders&style=for-the-badge)](https://cyberdefenders.org/p/alexandermsapo/)
+[![hackviser](https://img.shields.io/badge/-lightred?label=hackviser&logo=hackviser&style=for-the-badge)](https://app.hackviser.com/profile/conan0s4)
+[![letsdefend](https://img.shields.io/badge/-lightred?label=LetsDefend&logo=LetsDefend&style=for-the-badge)](https://app.letsdefend.io/user/conan0s4)
+[![YesWeHack](https://img.shields.io/badge/-lightred?label=YesWeHack&logo=yeswehack&style=for-the-badge)](https://dojo-yeswehack.com/user/168d53c0-7fdf-47d1-8098-5b0a111685a9)
+[![hackerone](https://img.shields.io/badge/-lightred?label=hackerone&logo=hackerone&style=for-the-badge)](https://hackerone.com/conan0s4)
+[![CTFtime Team 1](https://img.shields.io/badge/-lightred?label=CTFtime_Team1&logo=ctftime&style=for-the-badge)](https://ctftime.org/team/419050/)
+[![CTFtime Team 2](https://img.shields.io/badge/-lightred?label=CTFtime_Team2&logo=ctftime&style=for-the-badge)](https://ctftime.org/team/411847)
+[![Medium](https://img.shields.io/badge/-lightred?label=Medium&logo=medium&style=for-the-badge)](https://medium.com/@conan0s4)
+[![LinkedIn](https://img.shields.io/badge/-lightred?label=LinkedIn&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexander-sapo-245372337)
+[![HackerRank](https://img.shields.io/badge/-lightred?label=HackerRank&logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/alexandermsapo)
+
+
+
 </p>
 
-<p align="center">
-  <a href="https://cyberdefenders.org/p/alexandermsapo/">
-    <img alt="CyberDefenders" src="https://img.shields.io/badge/CyberDefenders-lightred?style=for-the-badge&logo=cyberdefenders&logoColor=black" />
-  </a>
-  <a href="https://app.hackviser.com/profile/conan0s4">
-    <img alt="Hackviser" src="https://img.shields.io/badge/Hackviser-lightred?style=for-the-badge&logo=hackviser&logoColor=black" />
-  </a>
-  <a href="https://app.letsdefend.io/user/conan0s4">
-    <img alt="LetsDefend" src="https://img.shields.io/badge/LetsDefend-lightred?style=for-the-badge&logo=letsdefend&logoColor=black" />
-  </a>
-  <a href="https://dojo-yeswehack.com/user/168d53c0-7fdf-47d1-8098-5b0a111685a9">
-    <img alt="YesWeHack" src="https://img.shields.io/badge/YesWeHack-lightred?style=for-the-badge&logo=yeswehack&logoColor=black" />
-  </a>
-  <a href="https://hackerone.com/conan0s4">
-    <img alt="HackerOne" src="https://img.shields.io/badge/HackerOne-lightred?style=for-the-badge&logo=hackerone&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ctftime.org/team/419050/">
-    <img alt="CTFtime Team 1" src="https://img.shields.io/badge/CTFtime%20Team%201-lightred?style=for-the-badge&logo=ctftime&logoColor=black" />
-  </a>
-  <a href="https://ctftime.org/team/411847">
-    <img alt="CTFtime Team 2" src="https://img.shields.io/badge/CTFtime%20Team%202-lightred?style=for-the-badge&logo=ctftime&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://medium.com/@conan0s4">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-lightred?style=for-the-badge&logo=medium&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexander-sapo-245372337">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lightred?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/alexandermsapo">
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-lightred?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-</p>
 
 
