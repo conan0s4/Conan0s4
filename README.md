@@ -5,27 +5,33 @@
 ## Skills 
 <p>
 
-<a href="#">
-  <img alt="Digital Forensics" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Autopsy_logo.svg" height="28"/> Digital Forensics
-</a>
-<a href="#">
-  <img alt="Web Exploitation" src="https://upload.wikimedia.org/wikipedia/commons/5/51/OWASP_logo.svg" height="28"/> Web Exploitation
-</a>
-<a href="#">
-  <img alt="Reconnaissance" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Nmap_logo.svg" height="28"/> Reconnaissance
-</a>
-<a href="#">
-  <img alt="Log Analysis" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Splunk_logo.svg" height="28"/> Log Analysis
-</a>
-<a href="#">
-  <img alt="Network Analysis" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_logo.svg" height="28"/> Network Analysis
-</a>
-<a href="#">
-  <img alt="Malware Analysis" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Malwarebytes_logo.svg" height="28"/> Malware Analysis
-</a>
-<a href="#">
-  <img alt="Threat Hunting" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/ISC2_logo.svg" height="28"/> Threat Hunting
-</a>
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Autopsy_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Digital Forensics
+</span>
+
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/OWASP_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Web Exploitation
+</span>
+
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Nmap_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Reconnaissance
+</span>
+
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Splunk_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Log Analysis
+</span>
+
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Network Analysis
+</span>
+
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Malwarebytes_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Malware Analysis
+</span>
+
+<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/ISC2_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Threat Hunting
+</span>
 
 </p>
 
