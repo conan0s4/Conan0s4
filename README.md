@@ -6,7 +6,7 @@
 <p>
 
 <a href="#">
-  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=autopsy&logoColor=000000" />
+  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=googlemaps&logoColor=000000" />
 </a>
 
 <a href="#">
@@ -14,7 +14,7 @@
 </a>
 
 <a href="#">
-  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=nmap&logoColor=000000" />
+  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=debian&logoColor=000000" />
 </a>
 
 <a href="#">
