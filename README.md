@@ -2,7 +2,8 @@
 
 
 ---
-## Skills <p>
+## Skills 
+
 <p>
 
 <a href="#">
@@ -21,15 +22,13 @@
   <img alt="Network Analysis" src="https://img.shields.io/badge/Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark&logoColor=white" />
 </a>
 <a href="#">
-  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=malwarebytes&logoColor=white" />
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2f/Malwarebytes_logo_2019.svg&logoColor=white" />
 </a>
 <a href="#">
-  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/f/f2/Cybersecurity_icon.svg&logoColor=white" />
 </a>
 
 </p>
-
-
 
 ## Languages
 <p>
