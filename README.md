@@ -5,33 +5,33 @@
 ## Skills 
 <p>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Autopsy_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Digital Forensics
-</span>
+<a href="#">
+  <img alt="Digital Forensics" src="https://img.shields.io/badge/Digital%20Forensics-lightblue?style=for-the-badge&logo=autopsy&logoColor=white" />
+</a>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/OWASP_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Web Exploitation
-</span>
+<a href="#">
+  <img alt="Web Exploitation" src="https://img.shields.io/badge/Web%20Pentesting-lightblue?style=for-the-badge&logo=owasp&logoColor=white" />
+</a>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Nmap_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Reconnaissance
-</span>
+<a href="#">
+  <img alt="Reconnaissance" src="https://img.shields.io/badge/Reconnaissance-lightblue?style=for-the-badge&logo=nmap&logoColor=white" />
+</a>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Splunk_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Log Analysis
-</span>
+<a href="#">
+  <img alt="Log Analysis" src="https://img.shields.io/badge/Log%20Analysis-lightblue?style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Network Analysis
-</span>
+<a href="#">
+  <img alt="Network Analysis" src="https://img.shields.io/badge/Network%20Analysis-lightblue?style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Malwarebytes_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Malware Analysis
-</span>
+<a href="#">
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware%20Analysis-lightblue?style=for-the-badge&logo=malwarebytes&logoColor=white" />
+</a>
 
-<span style="background-color:#d0ebf0; border-radius:6px; padding:4px 10px; margin:3px; display:inline-block; vertical-align:middle;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/ISC2_logo.svg" height="20" style="vertical-align:middle; margin-right:4px;"/> Threat Hunting
-</span>
+<a href="#">
+  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat%20Hunting-lightblue?style=for-the-badge&logo=cybersecurity&logoColor=white" />
+</a>
 
 </p>
 
