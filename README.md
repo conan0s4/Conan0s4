@@ -17,7 +17,7 @@
 </p>
 
 ## Languages
-<p align="center">
+<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-lightgreen?style=for-the-badge&logo=python&logoColor=black" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-lightgreen?style=for-the-badge&logo=powershell&logoColor=black" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-lightgreen?style=for-the-badge&logo=gnu-bash&logoColor=black" />
