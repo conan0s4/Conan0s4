@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Cybersecurity+Student;IDSC+CyberBlitz+Rank+2;Blue+Team+%2F+Web+Security;H4G+2024+Rank+T7;H4G+2025+Rank+T6)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=CTF+Joined+[6]+Year+[2024-2026];IDSC+CyberBlitz+2024+Rank+2;Blue+Team+%2F+Web+Security;H4G+2024+Rank+T7;H4G+2025+Rank+T6)
 
 
 ---
