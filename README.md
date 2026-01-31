@@ -18,11 +18,11 @@
 
 ## Languages
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-lightgreen?style=for-the-badge&logo=python&logoColor=black" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-lightgreen?style=for-the-badge&logo=powershell&logoColor=black" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-lightgreen?style=for-the-badge&logo=gnu-bash&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&logo=postgresql&logoColor=black" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&logo=html5&logoColor=black" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="PowerShell" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+  <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </p>
 
 ## Online Profiles
